@@ -37,7 +37,7 @@ Use the answers to create a data-flow diagram. Your diagram shows data across ea
 
 #### Diagram elements
 A data-flow diagram shows the flow of data in a given system. It usually starts with requests from users or data stores and ends with data stores or Analytics Services. The data-flow diagram uses distinct shapes to indicate the elements they represent.
-[Example](https://learn.microsoft.com/en-us/training/modules/tm-introduction-to-threat-modeling/2-step-1-design-phase)
+![image](https://github.com/adityasawant9/threat-modeling-notes/assets/64009990/6730275c-f7b2-4f59-890e-605e163d539c)
 
 #### Diagram layers
 To help you understand how much information to include, choose between these four context depth layers:
